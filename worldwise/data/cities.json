@@ -1,0 +1,76 @@
+{
+  "cities": [
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": 98443197
+    },
+    {
+      "cityName": "Manila",
+      "country": "Philippines (the)",
+      "emoji": "🇵🇭",
+      "date": "2023-10-04T22:17:11.037Z",
+      "notes": "",
+      "position": {
+        "lat": "14.58820231145243",
+        "lng": "120.980418011848"
+      },
+      "id": 98443203
+    },
+    {
+      "cityName": "Barbolla",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-10-04T22:41:44.225Z",
+      "notes": "aaaa",
+      "position": {
+        "lat": "41.32811508340338",
+        "lng": "-3.690101412967338"
+      },
+      "id": 98443204
+    },
+    {
+      "cityName": "Venteuges",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2023-10-04T22:45:16.514Z",
+      "notes": "aaaaaaaaa",
+      "position": {
+        "lat": "45.012350695835856",
+        "lng": "3.472816625564495"
+      },
+      "id": 98443205
+    },
+    {
+      "cityName": "Cozar",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-10-04T22:46:00.331Z",
+      "notes": "aaa",
+      "position": {
+        "lat": "38.67091762242335",
+        "lng": "-3.053507371346354"
+      },
+      "id": 98443206
+    },
+    {
+      "cityName": "Idri",
+      "country": "Libya",
+      "emoji": "🇱🇾",
+      "date": "2023-10-04T22:46:32.474Z",
+      "notes": "aaaaa",
+      "position": {
+        "lat": "28.158023058150793",
+        "lng": "10.064952126554024"
+      },
+      "id": 98443207
+    }
+  ]
+}
